@@ -1,1 +1,3 @@
-print("ALOOOO BASTIAN DEL FUTURO")
+
+
+print("Hola soy el del futuro")
